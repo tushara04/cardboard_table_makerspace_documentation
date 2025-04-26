@@ -25,10 +25,16 @@ These ideas were key to my design, which led to its success in terms of holding 
 ![table sketch](/images/table_sketch.png)
 
 ### Designing a prototype
-1. I first measured the dimensions of the 
+1. I first measured the dimensions of the 3D spool and planned the dimensions of my table. Given the table had to be at least 53 cm in height and the spool was 20 cm long, I was left with 33 cm that I had to cover.
+2. Each of the vertical cardboard piece in the array had 0.2 cm of width. So, to cover 90 cm length of the table, I needed maximum of 450 pieces, which wasn't practical. So, I decided to go with 10 pieces instead, with about 10 cm of gap between each piece placed parallel to each other. I made them to be 60 cm in length, to meet the width requirement of the table, and 25 cm in height so that the cardboards are long enough to withhold immense pressure put on by the weights placed above. This way I'd be left with 8 cm gap between the spool and the bottom surface of the table top.
+3. I then cut 11 more pieces of cardboard of 90 cm length and 10 cm height. These were put inside the 25 cm long carboards, at intervals of 5 cm from each side, leaving us with 15 cm underneath for the legs. To put them inside, I made 11 cuts of 10x0.2cm vertically downwards with 5 cm gap from the sides and in between.
+
+> **I later realized that this was not the best idea since while it allowed the pieces go inside easily, cutting them took time, damaged the cardboard, introduced instability, and was wide enough for the 0.2 cm wide carboards put inside to come out as well. A single cut of 10 cm long without any additional width would have ensured they are interlocked relatively more strongly and do not get damaged.**
+
+
 maintained the dimensional ratio and designed the prototype.
 
-### Designing the table
+### The final design
 
 So, I decided to take pieces of cardboard and place them in an array. This set of cardboard pieces were of 60 cm in length and 25 cm in height. 60 cm to meet the requirement and 25 cm so that they are long enough to withold immense pressure put on by the weights to be placed above. The whole table had to be of at least 53 cm in height, and the 3D printing spool to be rolled down was 20 cm in height, so I had at least 33 cm. I decided to keep 8 cm as buffer length. On top of these 
 
