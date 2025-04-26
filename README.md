@@ -16,10 +16,9 @@ Additionally, due to the nature of cardboard, it is stronger under compression, 
 
 These ideas were key to my design, which led to its success in terms of holding 15.7 kg of weight.
 
-
-
 ## Design Process
-
+### Brainstorming the design
+Keeping the ideas discussed above in mind, I realized it would be best to have the table top such that the weights are placed on the edges of the cardboard. 
 
 challenges faced: 
 1. took more than the allocated 2-3 hrs to build -- mainly because i didn't start with building right away but spent much time thinking through, designing a simple prototype, and coming up with ideas without any regards for time. 
