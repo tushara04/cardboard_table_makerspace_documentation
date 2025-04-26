@@ -39,20 +39,24 @@ These ideas were key to my design, which led to its success in terms of holding 
 The final design was not what I had hoped it to be. It was unstable, uneven, and asymmetric. However, it was capable of withstanding 15.7 kg of weight and have the spool roll under. 
 
 ![final design](/images/makerspace_build2/final.jpeg)
+![weights](/images/makerspace_build2/final_2.jpeg)
 
-challenges faced: 
-1. took more than the allocated 2-3 hrs to build -- mainly because i didn't start with building right away but spent much time thinking through, designing a simple prototype, and coming up with ideas without any regards for time. 
+After that, the table crumbed under the weight and was damaged. 
+![crumbled](/images/makerspace_build2/final_1.jpeg)
+![damaged](/images/makerspace_build2/final_3.jpeg)
 
-the ideas that i had in my mind but i wasn't able to execute. 
+As I had expected, the table fell on the side where the arrays of carboard pieces were weak and unstable. Since I used the same cardboard pieces to make the cuboidal legs that I had used to try an earlier version of triangular legs, the legs had gotten weaker due to all the folding. Moreoever, to interlock the leg with the lower layer of the table top, I had to make a cut. But due to imprecise measurements, the cuts were misaligned initial, due to which I had to make more cuts, which left the interlocks weaker too. All these contributed to the table's fall.
 
-the dimensions of the build -- and why i think those were set as the restrictions.
+### Challenges faced and things to do differently
+1. The build took more time than allocated. I was expected to finish it in 2-3 hours but it took me about 5 hours. That is because of the many components of the table that had to be cut and brought together. Moreoever, I spent some time designing a smaller version of my table to test the idea (it seemed to have worked surprisingly well there). I did read the documentation thoroughly though, which while it took time, helped me well while brainstorming.
 
-2. cutting was a pain in the ass -- plus my eyes are fucked in the sense they are not able to tell if a ruler is straight. so there were misalignments in cutting -- but to fix the issue i did make marks at multiple spots that aided in cutting. The problem also was that it was cardboard that i was cutting -- so the top layer was get shears. 
+2. It was challenging to cut the cardboard perfectly as the planned dimensions. Due to parallax effect, I could not make straight lines or straight cuts, so to deal with that I had to make marks in multiple points using which the ruler was aligned. There were still some misalignments. Moreoever, when cutting the cardboard, the top layer won't stop getting sheared, damaging its integrity and affecting the dimensions of the cuts. To deal with that I made the first cut very light and then made multiple cuts on top.
 
-3. when joining two sides - i had initial thought cutting 0.2 cm wide gaps would allow for other structures to get in, but i was wrong since it also meant they could come out easily. Later i discovered a single cut of blade and forcing down the cardboard ensured a greater structural integrity since the cardboards were thereby locked in to come out on its own. 
+3. A single cut of blade on a piece of cardboard and pushing other pieces inside proved to better in terms of ensuring a greater structural integrity, but it wasn't until I was designing the legs that I discovered this. The top was hence unstable.
 
-Doing this for the surface top would have ensured a greater structure integrity, which i failed at doing due to late realization. 
+4. After I realized I couldn't make smaller cubes stacked on top of each other for legs, I thought of having triangular bases instead of square, which I designed. But merging this with the lower layer of the surface top proved challenging since I hadn't discovered the two-cut-cardboard-in-between way of merging pieces by then.
 
-triangulation is stronger since they cant change form without having their side lengths changed. but i stuck with square because i found it harder to merge two pieces together. 
+If I had more time, I would have ensured the cuts are perfect and the placements of the legs and the pieces are symmetric for good distribution of weight. Either way, it was extremely fun to design something purely out of what I already knew and what the documentation suggested. I am glad to have come up with the design of the table top which proved to be much stronger than I had expected.
 
-i did make the triangle legs but it was a pain to insert them into the top and so i went with cuboidal legs.
+## Acknowledgement
+The project was carried out with the help of the Makerspace Lab team at Ashoka University on 25th and 26th April 2025.
