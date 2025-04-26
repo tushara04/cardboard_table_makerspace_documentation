@@ -27,16 +27,18 @@ These ideas were key to my design, which led to its success in terms of holding 
 ### Designing a prototype
 1. I first measured the dimensions of the 3D spool and planned the dimensions of my table. Given the table had to be at least 53 cm in height and the spool was 20 cm long, I was left with 33 cm that I had to cover.
 2. Each of the vertical cardboard piece in the array had 0.2 cm of width. So, to cover 90 cm length of the table, I needed maximum of 450 pieces, which wasn't practical. So, I decided to go with 10 pieces instead, with about 10 cm of gap between each piece placed parallel to each other. I made them to be 60 cm in length, to meet the width requirement of the table, and 25 cm in height so that the cardboards are long enough to withhold immense pressure put on by the weights placed above. This way I'd be left with 8 cm gap between the spool and the bottom surface of the table top.
-3. I then cut 11 more pieces of cardboard of 90 cm length and 10 cm height. These were put inside the 25 cm long carboards, at intervals of 5 cm from each side, leaving us with 15 cm underneath for the legs. To put them inside, I made 11 cuts of 10x0.2cm vertically downwards with 5 cm gap from the sides and in between.
+3. I then cut 11 more pieces of cardboard of 90 cm length and 10 cm height. These were put inside the 25 cm long carboards, at intervals of 5 cm from each side, leaving me with 15 cm underneath for the legs. To put them inside, I made 11 cuts of 10x0.2cm vertically downwards with 5 cm gap from the sides and in between. The table top was ready.
 
-> **I later realized that this was not the best idea since while it allowed the pieces go inside easily, cutting them took time, damaged the cardboard, introduced instability, and was wide enough for the 0.2 cm wide carboards put inside to come out as well. A single cut of 10 cm long without any additional width would have ensured they are interlocked relatively more strongly and do not get damaged.**
+> **I later realized that this was not the best idea since while it allowed the pieces go inside easily, cutting them took time, damaged the cardboard, introduced instability, and was wide enough for the 0.2 cm wide carboards put inside to come out as well. A single cut of 10 cm long without any additional width would have ensured they are interlocked relatively more strongly and do not get damaged and are stable, which is what I did when designing the legs.**
 
+4. To design the legs, I cut 40x65 cm square of cardboard. 5 cm of the 40 cm length went into the cuts made in the lower layer of the two cardboard pieces in each side of the table top to interlock the legs with the top. The remaining 35 cm added height to the table. The square plane was folded to make a cuboid of 15 cm side length. The remaining 5 cm was used to layer up a side and make a cut to put a piece of cardboard inside that would interlock the cube into its shape. Each corner of the table had a cuboidal leg. And the table was ready.
 
-maintained the dimensional ratio and designed the prototype.
+> **My initial plan was to make multiple smaller cubes of 5-10 cm length stacked on top of each other. But at that time I couldn't figure out how to merge two cubes together. I had thought on rotating one cube by 45 degrees with respect to the one below it and make a cut to put them inside, but doing this was challenging and damaged the cubes. To save time, I decided to go with the single cuboid. Later I discovered that I could have made a cut in both cubes and put a cardboard piece in between that would have merged the two.**
 
 ### The final design
+The final design was not what I had hoped it to be. It was unstable, uneven, and asymmetric. However, it was capable of withstanding 15.7 kg of weight and have the spool roll under. 
 
-So, I decided to take pieces of cardboard and place them in an array. This set of cardboard pieces were of 60 cm in length and 25 cm in height. 60 cm to meet the requirement and 25 cm so that they are long enough to withold immense pressure put on by the weights to be placed above. The whole table had to be of at least 53 cm in height, and the 3D printing spool to be rolled down was 20 cm in height, so I had at least 33 cm. I decided to keep 8 cm as buffer length. On top of these 
+![final design]("/images/makerspace_build2/WhatsApp Image 2025-04-25 at 6.17.53 PM (1).jpeg")
 
 challenges faced: 
 1. took more than the allocated 2-3 hrs to build -- mainly because i didn't start with building right away but spent much time thinking through, designing a simple prototype, and coming up with ideas without any regards for time. 
@@ -52,3 +54,5 @@ the dimensions of the build -- and why i think those were set as the restriction
 Doing this for the surface top would have ensured a greater structure integrity, which i failed at doing due to late realization. 
 
 triangulation is stronger since they cant change form without having their side lengths changed. but i stuck with square because i found it harder to merge two pieces together. 
+
+i did make the triangle legs but it was a pain to insert them into the top and so i went with cuboidal legs.
