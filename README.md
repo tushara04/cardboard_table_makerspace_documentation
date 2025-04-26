@@ -38,7 +38,7 @@ These ideas were key to my design, which led to its success in terms of holding 
 ### The final design
 The final design was not what I had hoped it to be. It was unstable, uneven, and asymmetric. However, it was capable of withstanding 15.7 kg of weight and have the spool roll under. 
 
-![final design]("/images/makerspace_build2/WhatsApp Image 2025-04-25 at 6.17.53 PM (1).jpeg")
+![final design](/images/makerspace_build2/final.jpeg)
 
 challenges faced: 
 1. took more than the allocated 2-3 hrs to build -- mainly because i didn't start with building right away but spent much time thinking through, designing a simple prototype, and coming up with ideas without any regards for time. 
