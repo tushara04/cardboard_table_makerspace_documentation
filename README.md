@@ -22,7 +22,7 @@ These ideas were key to my design, which led to its success in terms of holding 
 2. The shape should be symmetric, and cutting the cardboard in circle would have been a challenge, so I went with a rectangle.
 3. I decided to go with 4 legs for the four vertices of the rectangular top. They should be placed such that the edges of the cardboard are holding onto the table top, to ensure structural integrity. But, given that the cardboards had some areas damaged, going with a single long piece would introduce weak points that could disrupt the load path. Instead, I decided to design multiple cubes staked on top of and interlocked with each other.
 
-![table design](/images/table_sketch.jpeg)
+![table sketch](/images/table_sketch.png)
 
 ### Designing a prototype
 1. I first measured the dimensions of the 
