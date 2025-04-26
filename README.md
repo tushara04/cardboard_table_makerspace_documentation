@@ -18,7 +18,17 @@ These ideas were key to my design, which led to its success in terms of holding 
 
 ## Design Process
 ### Brainstorming the design
-Keeping the ideas discussed above in mind, I realized it would be best to have the table top such that the weights are placed on the edges of the cardboard. 
+1. Keeping the ideas discussed above in mind, I realized it would be best to have the table top such that the weights are placed on the edges of the cardboard. This would ensure the top is strong. So, I decided to have an array of vertically placed cardboard pieces interlocked perpendicularly with another set of similar, but longer in length and smaller in height, cardboard pieces. 
+2. The shape should be symmetric, and cutting the cardboard in circle would have been a challenge, so I went with a rectangle.
+3. I decided to go with 4 legs for the four vertices of the rectangular top. They should be placed such that the edges of the cardboard are holding onto the table top, to ensure structural integrity. But, given that the cardboards had some areas damaged, going with a single long piece would introduce weak points that could disrupt the load path. Instead, I decided to design multiple cubes staked on top of and interlocked with each other.
+
+### Designing a prototype
+1. I first measured the dimensions of the 
+maintained the dimensional ratio and designed the prototype.
+
+### Designing the table
+
+So, I decided to take pieces of cardboard and place them in an array. This set of cardboard pieces were of 60 cm in length and 25 cm in height. 60 cm to meet the requirement and 25 cm so that they are long enough to withold immense pressure put on by the weights to be placed above. The whole table had to be of at least 53 cm in height, and the 3D printing spool to be rolled down was 20 cm in height, so I had at least 33 cm. I decided to keep 8 cm as buffer length. On top of these 
 
 challenges faced: 
 1. took more than the allocated 2-3 hrs to build -- mainly because i didn't start with building right away but spent much time thinking through, designing a simple prototype, and coming up with ideas without any regards for time. 
