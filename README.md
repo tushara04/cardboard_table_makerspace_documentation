@@ -47,6 +47,8 @@ After that, the table crumbed under the weight and was damaged.
 
 As I had expected, the table fell on the side where the arrays of carboard pieces were weak and unstable. Since I used the same cardboard pieces to make the cuboidal legs that I had used to try an earlier version of triangular legs, the legs had gotten weaker due to all the folding. Moreoever, to interlock the leg with the lower layer of the table top, I had to make a cut. But due to imprecise measurements, the cuts were misaligned initial, due to which I had to make more cuts, which left the interlocks weaker too. All these contributed to the table's fall.
 
+The table capability to hold 15 kgs of weight proves that at least the ideas were good; had the engineering been as good as the plan, I think the table would have performed better.
+
 ### Challenges faced and things to do differently
 1. The build took more time than allocated. I was expected to finish it in 2-3 hours but it took me about 5 hours. That is because of the many components of the table that had to be cut and brought together. Moreoever, I spent some time designing a smaller version of my table to test the idea (it seemed to have worked surprisingly well there). I did read the documentation thoroughly though, which while it took time, helped me well while brainstorming.
 
